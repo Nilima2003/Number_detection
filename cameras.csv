@@ -1,0 +1,2 @@
+Camera13,rtsp://admin:admin$123@192.168.1.245:554/cam/realmonitor?channel=13&subtype=1
+camera14,rtsp://admin:admin$123@192.168.1.245:554/cam/realmonitor?channel=14&subtype=1

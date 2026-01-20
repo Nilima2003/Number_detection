@@ -1,0 +1,11 @@
+opencv-python
+Pillow
+python-doctr
+torch
+torchvision
+numpy
+tqdm
+shapely
+rapidfuzz
+pyyaml
+scipy
